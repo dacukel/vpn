@@ -20,7 +20,7 @@ Then copy and paste the following command into the console
 
 Copy the obtained domains and paste them into https://rockblack.pro/ip-address
 
-# Актуальные маршруты для Keenetic 
+# Актуальные маршруты для Keenetic (22/11/2025)
 
 https://github.com/dacukel/vpn/blob/main/routes%20keenetic/full%20list/routes%20(yt%2C%20inst%2C%20facebook%2C%20x%2C%20ds.%20gpt)
 <img width="1177" height="879" alt="image" src="https://github.com/user-attachments/assets/cef8a652-63ea-4b9b-876e-638253ba7746" />
