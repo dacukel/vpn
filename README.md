@@ -19,3 +19,6 @@ Then copy and paste the following command into the console
 > _console.log(domains);_
 
 Copy the obtained domains and paste them into https://rockblack.pro/ip-address
+
+# Актуальные маршруты для Keenetic 
+
