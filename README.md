@@ -28,7 +28,9 @@ https://github.com/dacukel/vpn/blob/main/routes%20keenetic/full%20list/routes%20
 # Список DNS для KVAS
 https://github.com/dacukel/vpn/blob/main/dns/1full
 
-> Ссылка для испорта `cd /tmp && curl -O https://raw.githubusercontent.com/dacukel/vpn/main/dns/1full && kvas import 1full`
+> Ссылка для испорта полного списка `cd /tmp && curl -O https://raw.githubusercontent.com/dacukel/vpn/main/dns/1full && kvas import 1full`
+> Ссылка для испорта из категории `cd /tmp && curl -O https://raw.githubusercontent.com/dacukel/vpn//main/dns/**instagram**) && kvas import **instagram**`
+> 
 <img width="637" height="186" alt="image" src="https://github.com/user-attachments/assets/b53ac42b-3efc-472f-9662-08cb3726489c" />
 
 # Настройка KVAS на Keenetic
