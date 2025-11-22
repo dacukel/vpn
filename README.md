@@ -25,6 +25,10 @@ Copy the obtained domains and paste them into https://rockblack.pro/ip-address
 https://github.com/dacukel/vpn/blob/main/routes%20keenetic/full%20list/routes%20(yt%2C%20inst%2C%20facebook%2C%20x%2C%20ds.%20gpt)
 <img width="1177" height="879" alt="image" src="https://github.com/user-attachments/assets/cef8a652-63ea-4b9b-876e-638253ba7746" />
 
+# Список DNS для KVAS
+https://github.com/dacukel/vpn/blob/main/dns/1full
+Ссылка для испорта `cd /tmp && curl -O https://raw.githubusercontent.com/dacukel/vpn/main/dns/1full && kvas import 1full`
+
 # Настройка KVAS на Keenetic
 
 1.	Добавить конфиг  Wireguard в боковом меню:
