@@ -75,3 +75,6 @@ https://github.com/dacukel/vpn/blob/main/dns/1full
 21.	Пишем команду `ipset list unblock`
 22.	Пишем команду и ждем около 10 минут `cd /tmp && curl -O https://raw.githubusercontent.com/dacukel/vpn/main/dns/1full && kvas import 1full`
 23.	Убеждаемся в добавлении списка командой `kvas show`
+
+
+> VPN Keenetic YouTube Instagram Kvas Маршруты Кинетик Ноябрь 2025
