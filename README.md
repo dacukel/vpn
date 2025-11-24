@@ -30,9 +30,9 @@ https://github.com/dacukel/vpn/blob/main/dns/1full
 
 Ссылка для испорта полного списка `cd /tmp && curl -O https://raw.githubusercontent.com/dacukel/vpn/main/dns/1full && kvas import 1full`
 
-> Ссылка для испорта **Instagram** `cd /tmp && curl -O https://raw.githubusercontent.com/dacukel/vpn/main/dns/instagram) && kvas import instagram`
+> Ссылка для испорта **Instagram** `cd /tmp && curl -O https://raw.githubusercontent.com/dacukel/vpn/main/dns/instagram && kvas import instagram`
 
-> Ссылка для испорта **YouTube** `cd /tmp && curl -O https://raw.githubusercontent.com/dacukel/vpn/main/dns/youtube) && kvas import youtube`
+> Ссылка для испорта **YouTube** `cd /tmp && curl -O https://raw.githubusercontent.com/dacukel/vpn/main/dns/youtube && kvas import youtube`
 
 <img width="637" height="186" alt="image" src="https://github.com/user-attachments/assets/b53ac42b-3efc-472f-9662-08cb3726489c" />
 
