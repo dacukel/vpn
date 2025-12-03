@@ -20,7 +20,7 @@ Then copy and paste the following command into the console
 
 Copy the obtained domains and paste them into https://rockblack.pro/ip-address
 
-# Актуальные маршруты для Keenetic (22/11/2025)
+# Актуальные маршруты для Keenetic (03/12/2025)
 
 [Тык](https://github.com/dacukel/vpn/blob/main/routes%20keenetic/full%20list/routes%20(yt%2C%20inst%2C%20facebook%2C%20x%2C%20ds.%20gpt).bat)
 <img width="1177" height="879" alt="image" src="https://github.com/user-attachments/assets/cef8a652-63ea-4b9b-876e-638253ba7746" />
@@ -77,4 +77,4 @@ https://github.com/dacukel/vpn/blob/main/dns/1full
 23.	Убеждаемся в добавлении списка командой `kvas show`
 
 
-> VPN Keenetic YouTube Instagram Kvas Маршруты Кинетик Ноябрь 2025
+> VPN Keenetic YouTube Instagram Kvas Маршруты Кинетик Декабрь 2025
