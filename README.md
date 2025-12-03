@@ -1,25 +1,3 @@
-# Поиск доменных имен
-
-Открыть страницу в Chrome, нажать F12 - Перейти во вкладку console, прописать команду allow pasting , а не скопировать (так не работает)
-
-Затем следующую команду скопировать и вставить в console
-
-> _window.domains = [...new Set(performance.getEntriesByType('resource').map(r => (new URL(r.name)).hostname))];_
-> _console.log(domains);_
-
-Полученные домены скопировать и вставить в https://rockblack.pro/ip-address
-
-# Searching for domain names
-
-Open page in Chrome, press F12, go to the console tab, enter the command allow pasting instead of copying (this doesn't work)
-
-Then copy and paste the following command into the console
-
-> _window.domains = [...new Set(performance.getEntriesByType('resource').map(r => (new URL(r.name)).hostname))];_
-> _console.log(domains);_
-
-Copy the obtained domains and paste them into https://rockblack.pro/ip-address
-
 # Актуальные маршруты для Keenetic (03/12/2025)
 
 [Тык](https://github.com/dacukel/vpn/blob/main/routes%20keenetic/full%20list/routes%20(yt%2C%20inst%2C%20facebook%2C%20x%2C%20ds.%20gpt).bat)
@@ -78,3 +56,25 @@ https://github.com/dacukel/vpn/blob/main/dns/1full
 
 
 > VPN Keenetic YouTube Instagram Kvas Маршруты Кинетик Декабрь 2025
+>
+# Поиск доменных имен
+
+Открыть страницу в Chrome, нажать F12 - Перейти во вкладку console, прописать команду allow pasting , а не скопировать (так не работает)
+
+Затем следующую команду скопировать и вставить в console
+
+> _window.domains = [...new Set(performance.getEntriesByType('resource').map(r => (new URL(r.name)).hostname))];_
+> _console.log(domains);_
+
+Полученные домены скопировать и вставить в https://rockblack.pro/ip-address
+
+# Searching for domain names
+
+Open page in Chrome, press F12, go to the console tab, enter the command allow pasting instead of copying (this doesn't work)
+
+Then copy and paste the following command into the console
+
+> _window.domains = [...new Set(performance.getEntriesByType('resource').map(r => (new URL(r.name)).hostname))];_
+> _console.log(domains);_
+
+Copy the obtained domains and paste them into https://rockblack.pro/ip-address
